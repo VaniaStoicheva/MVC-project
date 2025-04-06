@@ -1,0 +1,7 @@
+C:\Users\Atanasov\Documents\11 e, ж -РС\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Atanasov\Documents\11 e, ж -РС\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Atanasov\Documents\11 e, ж -РС\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Atanasov\Documents\11 e, ж -РС\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Atanasov\Documents\11 e, ж -РС\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Atanasov\Documents\11 e, ж -РС\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Atanasov\Documents\11 e, ж -РС\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
